@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppDrone</string>
+    <string name="acc_der">Accéder</string>
+    <string name="title_activity_vue1">Vue1 - Drone en temps réel</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">XXXXXXXXXX</string>
+    <string name="title_activity_vue3">Vue3 - Suivre un trajectoire définie</string>
+    <string name="title_activity_vue2">Vue2 - Pilotage du drone</string>
+    <string name="android_actionbar_tab_2">Android ActionBar Tab 2</string>
+    <string name="android_actionbar_tab_1">Android ActionBar Tab 1</string>
+    <string name="piloter_le_drone">Piloter le drone</string>
+    <string name="nmea_controller">NMEA Controller</string>
+    <string name="voir_le_drone_en_temps_r_el">Voir le drone en temps réel</string>
+    <string name="suivre_une_trajectoire">Suivre une trajectoire</string>
+    <string name="cr_er_fichier_de_suivi">Créer un fichier de suivi</string>
+    <string name="urgence">Urgence</string>
+    <string name="home">Home</string>
+</resources>
